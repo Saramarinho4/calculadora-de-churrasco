@@ -17,4 +17,4 @@
 - *Cálculo Automático*: Calcula as quantidades necessárias de cada item.
 - *Interface Interativa*: Atualiza os resultados instantaneamente.
 
-🔗 [Link para o projeto no GitHub](https://github.com/Saramarinho4/calculadora-de-churrasco.git) 
+🔗 [Link do projeto ](https://saramarinho4.github.io/calculadora-de-churrasco/) 
